@@ -12,11 +12,11 @@ Sou estudante de Sistemas de Informação (3º semestre, Unifacisa), focada em d
             src="https://custom-icon-badges.demolab.com/github/stars/sthefanyrocha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/sthefanyrocha?tab=followers">
+    <a href="sthefanyrrocha7@gmail.com">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/sthefanyrocha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Mail" 
+            title="Entre em contato comigo" 
+            src="https://custom-icon-badges.demolab.com/mail/followers/sthefanyrocha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
