@@ -37,7 +37,7 @@ Sou estudante de Sistemas de Informação (3º semestre, Unifacisa), focada em d
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px; vertical-align: middle;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -45,7 +45,7 @@ Sou estudante de Sistemas de Informação (3º semestre, Unifacisa), focada em d
     alt="Java" 
     title="Java"
     width="30px" 
-    style="padding-right: 10px; vertical-align: middle;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />  
 <img 
@@ -53,7 +53,7 @@ Sou estudante de Sistemas de Informação (3º semestre, Unifacisa), focada em d
     alt="MySQL" 
     title="MySQL"
     width="30px" 
-    style="padding-right: 10px; vertical-align: middle;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
@@ -61,7 +61,7 @@ Sou estudante de Sistemas de Informação (3º semestre, Unifacisa), focada em d
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px; vertical-align: middle;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -69,7 +69,7 @@ Sou estudante de Sistemas de Informação (3º semestre, Unifacisa), focada em d
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px; vertical-align: middle;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
