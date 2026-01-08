@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-💻 Estudante de Sistemas de Informação na Unifacisa  
-📚 2º período  
+💻 Information Systems student at Unifacisa
+📚 3nd period 
