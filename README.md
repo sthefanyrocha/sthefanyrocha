@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-💻 Information Systems student at Unifacisa
+💻 Information Systems student 
 
 📚 3nd period 
