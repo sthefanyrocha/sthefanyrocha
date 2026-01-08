@@ -39,7 +39,9 @@ Sou estudante de Sistemas de Informação (3º semestre, Unifacisa), focada em d
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://br.freepik.com/icones/java)" 
+    src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          )" 
 />
 <img 
     align="left" 
