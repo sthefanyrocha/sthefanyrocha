@@ -57,7 +57,6 @@ Sou estudante de Sistemas de Informação (3º semestre, Unifacisa), focada em d
   <a href="https://www.linkedin.com/in/sthefany-rocha-666089397" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
